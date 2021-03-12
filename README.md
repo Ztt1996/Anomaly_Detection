@@ -1,1 +1,7 @@
 # Anomaly_Detection
+
+Fraud_detection 文件夹中包含的是金融反欺诈相关的综述文章；
+
+KnowledgeGraph_AD文件夹中包含的是知识图谱相关的异常检测文献；
+
+Overview_AD文件夹中包含的是异常检测的整体综述文章以及在不同领域内应用的综述文章；
